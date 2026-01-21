@@ -18,8 +18,8 @@ This mod introduces a **Salvage Workflow** for treasure items:
 
 | Input Item (Trash) | Process | Output (Reward) |
 | :--- | :---: | :--- |
-| 🏺 **Large Treasure Pile** | ➡️ **Salvage Bench** ➡️ | **3x** Gold Ore (Руда) |
-| 💰 **Small Treasure Pile** | ➡️ **Salvage Bench** ➡️ | **2x** Gold Ore (Руда) |
+| 🏺 **Large Treasure Pile** | ➡️ **Salvage Bench** ➡️ | **1x** Gold Ore (Руда) |
+| 💰 **Small Treasure Pile** | ➡️ **Salvage Bench** ➡️ | **1x** Gold Ore (Руда) |
 | ⚱️ **Treasure** | ➡️ **Salvage Bench** ➡️ | **1x** Gold Ore (Руда) |
 
 ## 🛠 Installation / Установка
