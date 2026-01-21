@@ -34,11 +34,6 @@ This mod introduces a **Salvage Workflow** for treasure items:
 2.  Place it into your Hytale mods directory: `Hytale/mods/`.
 3.  Launch the game and get rich!
 
-## 🐛 Known Issues / Известные Баги
-
-*   **Visual Glitch:** Occasionally, the progress bar in the Salvage Bench may appear stuck visually after relogging. The processing usually continues in the background.
-    *   *Редко полоска прогресса в верстаке может визуально зависать после перезахода на сервер.*
-
 ## 🤝 Contributing
 
 Feel free to open an Issue or Pull Request if you want to add more "valuable junk" to the salvage list!
