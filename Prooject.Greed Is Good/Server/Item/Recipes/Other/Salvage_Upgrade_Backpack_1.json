@@ -1,0 +1,29 @@
+{
+  "Input": [
+    {
+      "ItemId": "Upgrade_Backpack_1",
+      "Quantity": 1
+    }
+  ],
+  "PrimaryOutput": {
+    "ItemId": "Ingredient_Bar_Iron",
+    "Quantity": 6
+  },
+  "Output": [
+    {
+      "ItemId": "Ingredient_Bar_Iron",
+      "Quantity": 6
+    },
+    {
+      "ItemId": "Ingredient_Leather_Medium",
+      "Quantity": 6
+    }
+  ],
+  "BenchRequirement": [
+    {
+      "Type": "Processing",
+      "Id": "Salvagebench"
+    }
+  ],
+  "TimeSeconds": 4
+}

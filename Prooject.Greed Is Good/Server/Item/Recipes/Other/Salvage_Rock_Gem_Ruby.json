@@ -1,0 +1,25 @@
+{
+  "Input": [
+    {
+      "ItemId": "Rock_Gem_Ruby",
+      "Quantity": 1
+    }
+  ],
+  "PrimaryOutput": {
+    "ItemId": "Ingredient_Crystal_Red",
+    "Quantity": 10
+  },
+  "Output": [
+    {
+      "ItemId": "Ingredient_Crystal_Red",
+      "Quantity": 10
+    }
+  ],
+  "BenchRequirement": [
+    {
+      "Type": "Processing",
+      "Id": "Salvagebench"
+    }
+  ],
+  "TimeSeconds": 4
+}

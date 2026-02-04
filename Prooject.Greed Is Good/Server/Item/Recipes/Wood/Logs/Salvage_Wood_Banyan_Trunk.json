@@ -1,0 +1,25 @@
+{
+  "Input": [
+    {
+      "ItemId": "Wood_Banyan_Trunk",
+      "Quantity": 1
+    }
+  ],
+  "PrimaryOutput": {
+    "ItemId": "Ingredient_Stick",
+    "Quantity": 3
+  },
+  "Output": [
+    {
+      "ItemId": "Ingredient_Stick",
+      "Quantity": 3
+    }
+  ],
+  "BenchRequirement": [
+    {
+      "Type": "Processing",
+      "Id": "Salvagebench"
+    }
+  ],
+  "TimeSeconds": 4
+}

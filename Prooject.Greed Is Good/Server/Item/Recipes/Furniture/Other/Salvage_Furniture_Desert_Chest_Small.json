@@ -1,0 +1,33 @@
+{
+  "Input": [
+    {
+      "ItemId": "Furniture_Desert_Chest_Small",
+      "Quantity": 1
+    }
+  ],
+  "PrimaryOutput": {
+    "ItemId": "Ingredient_Stick",
+    "Quantity": 1
+  },
+  "Output": [
+    {
+      "ItemId": "Ingredient_Stick",
+      "Quantity": 2
+    },
+    {
+      "ItemId": "Ore_Thorium",
+      "Quantity": 1
+    },
+    {
+      "ItemId": "Ingredient_Bolt_Wool",
+      "Quantity": 4
+    }
+  ],
+  "BenchRequirement": [
+    {
+      "Type": "Processing",
+      "Id": "Salvagebench"
+    }
+  ],
+  "TimeSeconds": 4
+}

@@ -1,0 +1,25 @@
+{
+  "Input": [
+    {
+      "ItemId": "Soil_Grass_Cold",
+      "Quantity": 1
+    }
+  ],
+  "PrimaryOutput": {
+    "ItemId": "Soil_Dirt_Cold",
+    "Quantity": 1
+  },
+  "Output": [
+    {
+      "ItemId": "Soil_Dirt_Cold",
+      "Quantity": 1
+    }
+  ],
+  "BenchRequirement": [
+    {
+      "Type": "Processing",
+      "Id": "Salvagebench"
+    }
+  ],
+  "TimeSeconds": 4
+}

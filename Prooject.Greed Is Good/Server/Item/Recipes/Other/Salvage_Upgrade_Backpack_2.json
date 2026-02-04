@@ -1,0 +1,33 @@
+{
+  "Input": [
+    {
+      "ItemId": "Upgrade_Backpack_2",
+      "Quantity": 1
+    }
+  ],
+  "PrimaryOutput": {
+    "ItemId": "Ingredient_Bar_Cobalt",
+    "Quantity": 6
+  },
+  "Output": [
+    {
+      "ItemId": "Ingredient_Bar_Cobalt",
+      "Quantity": 6
+    },
+    {
+      "ItemId": "Ingredient_Fabric_Scrap_Cindercloth",
+      "Quantity": 30
+    },
+    {
+      "ItemId": "Ingredient_Leather_Heavy",
+      "Quantity": 20
+    }
+  ],
+  "BenchRequirement": [
+    {
+      "Type": "Processing",
+      "Id": "Salvagebench"
+    }
+  ],
+  "TimeSeconds": 4
+}

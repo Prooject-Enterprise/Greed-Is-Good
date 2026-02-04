@@ -1,0 +1,33 @@
+{
+  "Input": [
+    {
+      "ItemId": "Furniture_Jungle_Bed",
+      "Quantity": 1
+    }
+  ],
+  "PrimaryOutput": {
+    "ItemId": "Ingredient_Stick",
+    "Quantity": 2
+  },
+  "Output": [
+    {
+      "ItemId": "Ingredient_Stick",
+      "Quantity": 2
+    },
+    {
+      "ItemId": "Ingredient_Fibre",
+      "Quantity": 2
+    },
+    {
+      "ItemId": "Ingredient_Bolt_Wool",
+      "Quantity": 4
+    }
+  ],
+  "BenchRequirement": [
+    {
+      "Type": "Processing",
+      "Id": "Salvagebench"
+    }
+  ],
+  "TimeSeconds": 4
+}

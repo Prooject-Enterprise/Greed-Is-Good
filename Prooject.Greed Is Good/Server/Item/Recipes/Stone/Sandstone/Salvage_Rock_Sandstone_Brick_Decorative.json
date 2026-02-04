@@ -1,0 +1,25 @@
+{
+  "Input": [
+    {
+      "ItemId": "Rock_Sandstone_Brick_Decorative",
+      "Quantity": 1
+    }
+  ],
+  "PrimaryOutput": {
+    "ItemId": "Rock_Sandstone_Cobble",
+    "Quantity": 1
+  },
+  "Output": [
+    {
+      "ItemId": "Rock_Sandstone_Cobble",
+      "Quantity": 1
+    }
+  ],
+  "BenchRequirement": [
+    {
+      "Type": "Processing",
+      "Id": "Salvagebench"
+    }
+  ],
+  "TimeSeconds": 4
+}

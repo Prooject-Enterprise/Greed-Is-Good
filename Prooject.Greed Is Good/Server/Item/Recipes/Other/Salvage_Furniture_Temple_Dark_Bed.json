@@ -1,0 +1,25 @@
+{
+  "Input": [
+    {
+      "ItemId": "Furniture_Temple_Dark_Bed",
+      "Quantity": 1
+    }
+  ],
+  "PrimaryOutput": {
+    "ItemId": "Rock_Shale_Cobble",
+    "Quantity": 2
+  },
+  "Output": [
+    {
+      "ItemId": "Rock_Shale_Cobble",
+      "Quantity": 2
+    }
+  ],
+  "BenchRequirement": [
+    {
+      "Type": "Processing",
+      "Id": "Salvagebench"
+    }
+  ],
+  "TimeSeconds": 4
+}

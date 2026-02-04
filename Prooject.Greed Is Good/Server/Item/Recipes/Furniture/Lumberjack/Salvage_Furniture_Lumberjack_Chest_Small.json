@@ -1,0 +1,29 @@
+{
+  "Input": [
+    {
+      "ItemId": "Furniture_Lumberjack_Chest_Small",
+      "Quantity": 1
+    }
+  ],
+  "PrimaryOutput": {
+    "ItemId": "Ingredient_Stick",
+    "Quantity": 2
+  },
+  "Output": [
+    {
+      "ItemId": "Ingredient_Stick",
+      "Quantity": 2
+    },
+    {
+      "ItemId": "Ore_Iron",
+      "Quantity": 1
+    }
+  ],
+  "BenchRequirement": [
+    {
+      "Type": "Processing",
+      "Id": "Salvagebench"
+    }
+  ],
+  "TimeSeconds": 4
+}
